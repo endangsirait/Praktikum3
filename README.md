@@ -1,5 +1,5 @@
 # Praktikum3
-Latihan
+# Latihan
 
 • Lengkapi latihan class Mahasiswa dengan setter dan getter.
 
