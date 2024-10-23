@@ -73,20 +73,7 @@ Penjelasan:
 
 ![5](https://github.com/user-attachments/assets/2dcdca51-e9aa-463c-a8f7-046df12f79a4)
 
-Penjelasan Output:
-Programmer:
-* Nama programmer adalah Budi.
-* Gaji pokok programmer adalah 5.000.000.
-* Tunjangan programmer adalah 1.000.000.
-* Bonus programmer adalah 500.000.
-* Tunjangan dan bonus dicetak dua kali karena ada method tambahan cetakTunjangan() dan cetakBonus().
-  
-Manager:
-* Nama manager adalah Andi.
-* Gaji pokok manager adalah 8.000.000.
-* Tunjangan manager adalah 2.000.000.
-* Bonus manager adalah 1.000.000.
-* Sama seperti Programmer, tunjangan dan bonus dicetak dua kali dengan method tambahan cetakTunjangan() dan cetakBonus().
+
 
 
 
