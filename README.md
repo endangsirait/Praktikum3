@@ -31,13 +31,28 @@ Penjelasan:
 # Class Pegawai
 ![1](https://github.com/user-attachments/assets/cbc9d86d-43d1-4024-af0f-708bbff8f8df)
 
+Penjelasan:
+* Pegawai adalah class dasar (superclass) yang menyimpan atribut dasar seorang pegawai: nama dan gajiPokok.
+* Setter (setNama(), setGajiPokok()) digunakan untuk mengubah atau mengatur nilai atribut nama dan gajiPokok.
+* Getter (getNama(), getGajiPokok()) digunakan untuk mendapatkan nilai dari atribut tersebut.
+* Method cetakInfo(): Mencetak informasi pegawai, yaitu nama dan gajiPokok.
+
 # Class Programmer (subclass dari pegawai)
 
 ![2](https://github.com/user-attachments/assets/5760f4f1-558b-4504-9543-2e5a71856dc6)
 
+Penjelasan:
+** Programmer adalah subclass dari Pegawai, artinya class Programmer mewarisi semua atribut dan method dari class Pegawai.
+** Atribut tambahan: Programmer memiliki dua atribut tambahan, yaitu tunjangan dan bonus.
+** Setter dan Getter: Terdapat method setter dan getter untuk mengatur dan mendapatkan nilai dari atribut tunjangan dan bonus.
+** Override cetakInfo(): Method ini di-override dari class Pegawai untuk menambahkan informasi tambahan seperti tunjangan dan bonus setelah mencetak nama dan gajiPokok menggunakan method super.cetakInfo().
+** Method tambahan: cetakTunjangan() dan cetakBonus() disediakan untuk mencetak tunjangan dan bonus secara terpisah.
+
+
 # Class Manager (Subclass dai pegawai)
 
 ![3](https://github.com/user-attachments/assets/79c972ba-4507-4258-8fa0-978e92a7c92a)
+
 
 # Penggunaan di Main class
 
