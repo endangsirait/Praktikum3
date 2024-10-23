@@ -26,7 +26,8 @@ Penjelasan:
 * Method cetakInfo() digunakan untuk mencetak informasi mahasiswa.
 * Di dalam Main class, objek Mahasiswa digunakan untuk menguji fungsi setter dan getter serta menampilkan informasi mahasiswa.
 
-# implementasi diagram class yang mencakup Pegawai, Programmer, dan Manager
+# implementasikan diagram class yang mencakup Pegawai, Programmer, dan Manager
+# INPUT
 # Class Pegawai
 ![1](https://github.com/user-attachments/assets/cbc9d86d-43d1-4024-af0f-708bbff8f8df)
 
@@ -41,6 +42,12 @@ Penjelasan:
 # Penggunaan di Main class
 
 ![4](https://github.com/user-attachments/assets/bf545a27-0dce-4296-86b8-894e7d98daeb)
+
+# OUTPUT
+
+![5](https://github.com/user-attachments/assets/2dcdca51-e9aa-463c-a8f7-046df12f79a4)
+
+
 
 
 
