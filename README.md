@@ -20,6 +20,12 @@
 
 ![9](https://github.com/user-attachments/assets/beddea28-4ab8-4735-9ff9-c4db5c2641b1)
 
+Penjelasan:
+* Class Mahasiswa memiliki 4 atribut: nama, nim, jurusan, dan ipk.
+* Setiap atribut memiliki method setter untuk mengatur nilai dan getter untuk mendapatkan nilai.
+* Method cetakInfo() digunakan untuk mencetak informasi mahasiswa.
+* Di dalam Main class, objek Mahasiswa digunakan untuk menguji fungsi setter dan getter serta menampilkan informasi mahasiswa.
+
 
 
 
