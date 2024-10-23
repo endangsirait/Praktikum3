@@ -27,7 +27,24 @@ Penjelasan:
 * Di dalam Main class, objek Mahasiswa digunakan untuk menguji fungsi setter dan getter serta menampilkan informasi mahasiswa.
 
 # implementasi diagram class yang mencakup Pegawai, Programmer, dan Manager
-# Diagram class Pegawai
+# Class Pegawai
+![1](https://github.com/user-attachments/assets/cbc9d86d-43d1-4024-af0f-708bbff8f8df)
+
+# Class Programmer (subclass dari pegawai)
+
+![2](https://github.com/user-attachments/assets/5760f4f1-558b-4504-9543-2e5a71856dc6)
+
+# Class Manager (Subclass dai pegawai)
+
+![3](https://github.com/user-attachments/assets/79c972ba-4507-4258-8fa0-978e92a7c92a)
+
+# Penggunaan di Main class
+
+![4](https://github.com/user-attachments/assets/bf545a27-0dce-4296-86b8-894e7d98daeb)
+
+
+
+
 
 
 
